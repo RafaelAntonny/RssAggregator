@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/RafaelAntonny/RSS_AGGREGATOR/internal/database"
+	"github.com/RafaelAntonny/RssAggregator/internal/database"
 	"github.com/go-chi/chi"
 	"github.com/google/uuid"
 )

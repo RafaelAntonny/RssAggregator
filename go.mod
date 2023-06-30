@@ -1,4 +1,4 @@
-module github.com/RafaelAntonny/RSS_AGGREGATOR
+module github.com/RafaelAntonny/RssAggregator
 
 go 1.20
 

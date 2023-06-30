@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/RafaelAntonny/RSS_AGGREGATOR/internal/auth"
-	"github.com/RafaelAntonny/RSS_AGGREGATOR/internal/database"
+	"github.com/RafaelAntonny/RssAggregator/internal/auth"
+	"github.com/RafaelAntonny/RssAggregator/internal/database"
 )
 
 type authedHandler func(http.ResponseWriter, *http.Request, database.User)

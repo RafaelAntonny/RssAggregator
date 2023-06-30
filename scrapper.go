@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/RafaelAntonny/RSS_AGGREGATOR/internal/database"
+	"github.com/RafaelAntonny/RssAggregator/internal/database"
 	"github.com/google/uuid"
 )
 
